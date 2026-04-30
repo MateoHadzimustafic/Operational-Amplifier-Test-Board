@@ -4,7 +4,7 @@ Short description of what this hardware project does.
 
 ## Overview
 
-Designed and built a Voltage-Controlled Oscillator (VCO) capable of generating square and triangle waveforms with adjustable frequency and amplitude using op-amp-based analog circuitry. Integrated USB power management and LiPo battery input for portable or wired operation, including onboard LiPo charging functionality for convenient rechargeable power support.
+This Operational Amplifier Test Board is a versatile prototyping and evaluation platform designed for testing any standard 8-pin DIP op-amp using a universal DIP-8 socket. It features integrated test points for quick signal probing, banana connector inputs for easy compatibility with external DC bench power supplies, and breadboard-compatible pin headers for seamless circuit integration and experimentation. Built for rapid analog testing, debugging, and performance evaluation, this board simplifies op-amp characterization in both lab and prototyping environments.
 
 ## Current Status
 
@@ -12,12 +12,9 @@ Completed — Fully designed, built, tested, and validated.
 
 ## Features
 
-- Square Wave Generator
-- Triangle Wave Generator
-- Frequency Control
-- Amplitude Control
-- Lipo Battery and USB-C Powered
-- Lipo Battery Charger
+- Bread board compatibility through the use of pin headers
+- Test points for positive, negative, and output terminal
+- Easy and efficient operational amplifier testing
 
 ## Repository Structure
 
