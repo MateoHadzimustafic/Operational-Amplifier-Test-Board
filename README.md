@@ -18,7 +18,6 @@ Completed — Fully designed, built, tested, and validated.
 
 ## Repository Structure
 
-- `docs/` — design notes, calculations, and planning
 - `hardware/` — schematic, PCB layout, and manufacturing files
 - `bom/` — bill of materials and component notes
 - `images/` — renders, diagrams, and photos
